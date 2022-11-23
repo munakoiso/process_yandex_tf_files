@@ -4,5 +4,5 @@ This script moves user and database recources from cluster resource to separate 
 
 ## Usage
 ```
-python3 ./process_tf.py -s source_dir -d dest_dir
+python3 ./process_tf.py -s source_dir --suffix '_updated'
 ```
